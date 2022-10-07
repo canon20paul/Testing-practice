@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Task1.test.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canon20paul/Testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canon20paul/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/canon20paul/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
